@@ -8,7 +8,7 @@
 
 ### Problem(問題なので、やめること)
 
-- divid,class,sectionの使い分け　
+- divid,class,sectionの使い分けがよくわからない
 
 ### Try(今後、試してみたいこと)
 

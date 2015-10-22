@@ -4,6 +4,22 @@
 
 ### Keep(今後も続けること)
 
+- javascriptの勉強
+
+### Problem(問題なので、やめること)
+
+- なし
+
+### Try(今後、試してみたいこと)
+
+- javascriptの応用
+
+# 振り返り
+
+##10/21
+
+### Keep(今後も続けること)
+
 - html,css,javascriptの勉強
 
 ### Problem(問題なので、やめること)
